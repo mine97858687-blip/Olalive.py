@@ -1,0 +1,6 @@
+# accounts.py
+
+ACCOUNT = {
+    "uid": "4466038610",          // Apni OlaParty UID yahan string me dalein
+    "auth_token": "7iDRk%2Fx8aGthB5mP7j0Wd1FcgaedZOUNOhNIn45fkZAbjtd1FEQwtdUjCWBPRE0cNyi%2Bz7xcgnBZhwHUitVuvva2fsw0btjQT3mgIexMC2Kgak7iCzlsJQ%3D%3D%2CnNM9ovMxw6%2FZS1OJUb5siRcRTM2ItxcB%2BFfvfbhFkGios6THp4gNU0eFSxUzHPmcQZ2ZvKYnks9sFLs%2BIf94BirIa%2F9KyORW1XWUe5aBUS6NkCJGj1ihcDIWyN%2FvJHXY3cEqi29cMiUdtNdnxMqJgbLZSnbEFzNWLX6cmMV3TxtGxxZilvzansXhxobyxlWu50QWwiHIfPLa2NVyMEA6E92ew9akPHQ25BSQI33ewE5EDHI4d3B1p2R6pQdQmgzc0nwrUTXfrrVkSaRtjQtj%2BTw5r9kHXUCZCHsK6dzMcDWJIP0Cu7Bd%2BdPwMqTjoejW3vtEg0n8DW6wcu9eUzK8ATTeqXXbmQcfJHdPLWy5Ir4%2FGkF5DHS%2BDgy0JQfQkd4HIwlWZU1x5wcTr3YCYS%2FKctCSORMFy%2BBUO5PkTN6svsB%2Bk2Diw%2F8cGzuS5razkGxU5kb33ecgOIv2Ufc75rlTFuuULOUtq0i7Mn%2BqQPC9sNwkVORXs3JVrNLc3UGa7%2BFD"  // Apna live auth token yahan dalein
+}
